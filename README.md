@@ -1,1 +1,1 @@
-# csc413_project
+Text to Image Diffusion Models
